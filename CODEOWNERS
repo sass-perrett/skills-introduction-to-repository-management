@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sass-perrett
+/src/backend/database.py      @sass-perrett
+/src/backend/routers/auth.py  @sass-perrett
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sass-perrett
